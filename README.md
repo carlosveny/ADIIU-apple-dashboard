@@ -9,7 +9,7 @@
 - Importar en la base de datos creada el fichero "apple_db.sql" (Puede tardar algunos segundos).
 - Ejecutar la práctica (localhost/PracticaFinal/index.html).
 
-### Información importante###
+### Información importante ###
 Trabajo realizado usando HTML, CSS, JavaScript y PHP. La información de la base de datos está sacada de los siguientes datasets de Kaggle:
 - https://www.kaggle.com/tarunpaparaju/apple-aapl-historical-stock-data
 - https://www.kaggle.com/edehvictor/google-and-apple-store
